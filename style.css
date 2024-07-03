@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+
+    height: 100px;
+    background-color: aquamarine;
+}
+
+#first{
+
+    color: rgb(206, 154, 12);
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: green;
+    width: 200px;
+    float: left;
+}
+
+
+.nav{
+
+    padding: 30px;
+     float: right;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+    margin-right: 45px;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+   
+    
+}
+
+a:hover{
+
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
